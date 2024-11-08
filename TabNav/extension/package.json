@@ -1,0 +1,24 @@
+{
+  "name": "tabnav-extension",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "zustand": "^4.4.1",
+    "tailwindcss": "^3.3.3",
+    "framer-motion": "^10.16.4"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "vite": "^4.4.9",
+    "eslint": "^8.49.0",
+    "jest": "^29.7.0"
+  }
+} 
